@@ -33,5 +33,5 @@ java PasswordGenerator
 
 ## 👩‍💻 Author
 
-Your Name
+Pravalleka Jakkereddy
 
