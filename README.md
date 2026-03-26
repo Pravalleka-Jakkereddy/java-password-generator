@@ -23,7 +23,6 @@ It creates secure passwords based on user-defined length and character preferenc
 ```bash
 javac PasswordGenerator.java
 java PasswordGenerator
-```
 
 ## 📈 Future Enhancements
 
