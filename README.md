@@ -9,7 +9,7 @@ It creates secure passwords based on user-defined length and character preferenc
 ## ✨ Features
 
 * Custom password length
-* Supports uppercase, lowercase, digits, and special characters
+* Supports uppercase, lowercase, digits, and special character
 * Random password generation
 * Password strength indicator
 
